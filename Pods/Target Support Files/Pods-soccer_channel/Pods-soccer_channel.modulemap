@@ -1,0 +1,6 @@
+framework module Pods_soccer_channel {
+  umbrella header "Pods-soccer_channel-umbrella.h"
+
+  export *
+  module * { export * }
+}
